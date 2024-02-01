@@ -39,45 +39,44 @@ Legal Proceedings: Initiate legal actions against the involved individuals/entit
 Software and Technology Used:
 
 Programming Languages:
-
 Python 🐍
 Javascript 🖥️
-Web Application:
 
+Web Application:
 Frontend: HTML, CSS, JavaScript 🌐💻
 Backend: Python (Django) 🐍🔄
-SMS and Email Notifications:
 
+SMS and Email Notifications:
 SMS Gateway: Twilio 📲
 Email Service: SMTP protocol for sending emails, integrated with SendGrid or Amazon SES. 📧🔒
+
 Cloud Services:
-
 AWS LAMBDA ☁️
-Version Control:
 
+Version Control:
 Git 🔄
 Github 🐙
-Framework:
 
+Framework:
 Scrapy (web automation) 🤖
 Libraries: Email->python, Smtplib->python 📚
+
 Database:
-
 Apache Kafka 🗄️
-Security:
 
+Security:
 Encryption protocols for securing sensitive information. 🔐
 Secure Socket Layer (SSL) for secure data transmission. 🌐🔒
-AI-Powered Legal Decision System:
 
+AI-Powered Legal Decision System:
 Machine Learning Framework: PyTorch 🤖
 Natural Language Processing (NLP) tools for analyzing complaint details. 📑🤖
-Team Members & Responsibilities:
 
+Team Members & Responsibilities:
 Sanchita Singh, Shruti Agarwal: Website development, Database management, version control. 🕸️💾
 Kartik Dhanai, Himanshu Kumar Jha: Web automation for emails, Cloud services. 🤖📧💼
-Expected Outcomes:
 
+Expected Outcomes:
 Streamlined Recovery Process: The automated tool ensures a simplified and efficient fund recovery experience for the complainant, alleviating complexities and delays for complainants. 🔄💰
 User Friendly and Application Tracking: The UI/UX of the website is designed to provide a smooth user experience, and application tracking informs about the status of his/her application and progress made, giving the user a sense of satisfaction. 🌐👀
 Faster Resolution of Complaints: The system is designed to handle a bulk of complaints smoothly. A fully automated system leads to faster resolution of complaints and fraud recovery. ⚡🔍🚔
